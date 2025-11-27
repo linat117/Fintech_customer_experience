@@ -1,4 +1,4 @@
-google-play-scraper==0.1.5
+google-play-scraper
 pandas
 sqlalchemy
 psycopg2-binary
