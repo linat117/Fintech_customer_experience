@@ -1,0 +1,10 @@
+google-play-scraper==0.1.5
+pandas
+sqlalchemy
+psycopg2-binary
+vaderSentiment
+scikit-learn
+nltk
+gensim
+matplotlib
+pytest
